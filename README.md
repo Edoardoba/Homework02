@@ -1,5 +1,1 @@
-# Homework02
-
-Inline-style: 
-![alt text](https://github.com/Edoardoba/Homework02/taxis.png "aa")
-[[https://github.com/Edoardoba/Homework02/taxis.png|alt=octocat]]
+In out repository you can find all the tasks divided in different python notebook's files. 
