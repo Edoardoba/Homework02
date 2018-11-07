@@ -9,7 +9,7 @@ Before starting our analysis, we deeply studied the [legend](http://www.nyc.gov/
 2) **RQ1-2-3-4-5**: These .ipynb files contain all the code relative to the research questions with comments
 3) **Final_core.ipynb**: All the code related to the first core question. T.student and p values are discussed in here. 
 4) **Final_map**: All the code related to the second core question. Choropleth map and comments about it.
-+ different images( We think no description is needed for those :P)
+And different images( We think no description is needed for those :P)
 
 
 
