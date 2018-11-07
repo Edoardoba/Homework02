@@ -8,7 +8,7 @@ Before starting our analysis, we deeply studied the [legend](http://www.nyc.gov/
 1) **Code_before_starting**: This is all the code that covers the first section of the homework. We explain the choices we have made and the reason why we have chosen some methods instead  of others. 
 2) **RQ1-2-3-4-5**: These .ipynb files contain all the code relative to the research questions with comments
 3) **Final_core.ipynb**: All the code related to the first core question. T.student and p values are discussed in here. 
-4) **Final_map**: All the code related to the second core question. Choropleth map and comments about it.
+4) **Finalmap**: All the code related to the second core question. Choropleth map and comments about it.
 
 
 
