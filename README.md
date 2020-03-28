@@ -12,7 +12,7 @@ Before starting our analysis, we deeply studied the [legend](http://www.nyc.gov/
 
 
 
-And different images( We think no description is needed for those :P)
+And different images( We think no description is needed for those )
 
 
 
