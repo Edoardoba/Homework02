@@ -2,7 +2,7 @@
 
 ![Taxi](https://github.com/Edoardoba/Homework02/blob/master/taxis.png)
 
-#Research questions
+# Research questions
 Exploratory Data Analysis
 
     1) [RQ1] In what period of the year Taxis are used more? Create a plot that, for each month, shows the average number of trips recorded each day. Due to the differences among New York zones, we want to visualize the same information for each boroughs. Do you notice any difference among them? Provide comments and plausible explanations about what you observe (e.g.: what is the month with the highest daily average?).
